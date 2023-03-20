@@ -4,6 +4,8 @@ src
 rollup.config.js
 ## node modules folder
 node_modules
+## package test file
+example
 ## git repository related files
 .git
 .gitignore
